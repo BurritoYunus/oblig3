@@ -1,4 +1,4 @@
 # oblig3
 
 
-https://github.com/<OWNER>/<REPOSITORY>/workflows/<tests>/badge.svg
+https://github.com/BurritoYunus/oblig3/workflows/tests/badge.svg
